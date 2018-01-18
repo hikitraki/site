@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
 		<title>Hikitraki_en</title>
@@ -7,11 +7,25 @@
 		html, body { height:100%; background-color: #000000;}
 		body { margin:0; padding:0; overflow:hidden; }
 		#flashContent { width:100%; height:100%; }
+		
+		
+		.contactinfo {text-align:right; display:block; padding:15px 15px 5px 0px }
+		.contactinfo .prefix {color:#ee0000; font-family:Georgia; font-size:20px;font-weight:500;font-style:italic ;text-shadow: 0.5px 0.5px 0.0px #666666;}
+		
+		.contactinfo .prefix::before {padding-right:15px; content: "email επικοινωνίας:"; color:#dddddd; font-size:12px;font-family:Georgia; font-style:italic; font-weight:bold; text-shadow:none}		
+		
+		.atsign {margin: 0px 2px 0px 2px}
 		</style>
 	</head>
 	<body>
 		<div id="flashContent">
-			<div id="contactinfoplain" class="contactinfoplain"><span>desp.hatzidimitraki@gmail.com</span></div>
+			<table>
+			<tr>
+			<td class="contactinfo">
+			<span class="prefix"><span>desp.chatzidimitraki</span><b style="display:none;">"</b><code class="atsign">&#64;</code><span>gmail<code>.</code>com</span></span>
+			</td>
+			</tr>
+			<tr><td>
 			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="940" height="890" id="Hikitraki_en" align="middle">
 				<param name="movie" value="Hikitraki_en.swf" />
 				<param name="quality" value="high" />
@@ -45,6 +59,8 @@
 				</object>
 				<!--<![endif]-->
 			</object>
+			</td></tr>
+			</table>
 		</div>
 	</body>
 </html>
