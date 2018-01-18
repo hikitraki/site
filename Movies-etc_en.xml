@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+
+	<config 
+		auto_play="true"
+		auto_play_duration="3.0" 
+		previous_button="false"
+		next_button="false"
+		photo_spacing="235"
+		tween_duration="1.7"
+		tween_effect="easeInOutBack">
+	</config>
+	
+	<photo>
+		<filename>photos/Movies_etc/img928.png</filename>
+		<description><![CDATA[<span class="title">Feature Film "The guardian's son"</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img930.png</filename>
+		<description><![CDATA[<span class="title">Court Métrage Film "Make-up"</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img953.png</filename>
+		<description><![CDATA[<span class="title">Court Métrage Film</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img936.png</filename>
+		<description><![CDATA[<span class="title">T.V. serial, Actor: Chrisoula Diavati</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+
+	<photo>
+		<filename>photos/Movies_etc/img935.png</filename>
+		<description><![CDATA[<span class="title">T.V. serial "Taxim", Actor: Olia Lazaridou</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img929.png</filename>
+		<description><![CDATA[<span class="title">T.V. serial "With you"</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+		<photo>
+		<filename>photos/Process/img945.png</filename>
+		<description><![CDATA[<span class="title">T.V. serial, Actor: Spyros Papadopoulos</span>
+		
+		<!--
+<p align="justify">Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui.</p>
+<p align="justify">Maecenas posuere feugiat risus, non sodales mi egestas eget. Duis vehicula, tellus sit amet tincidunt pulvinar, ipsum magna sagittis quam, quis aliquam lorem odio quis augue.</p>]]></description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img933.png</filename>
+		<description><![CDATA[<span class="title">T.V. serial, Actor: Eleni Gerasimidou</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img961.png</filename>
+		<description><![CDATA[<span class="title">FX: Lolita make-up</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img927.png</filename>
+		<description><![CDATA[<span class="title">FX: Ageing a middle-aged actor</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img932.png</filename>
+		<description><![CDATA[<span class="title">FX: Black-Eye</span>
+		
+		<!--
+<p align="justify">Nam pulvinar lobortis nunc, eleifend viverra urna euismod vehicula. Vestibulum condimentum, ligula non vestibulum sagittis, velit sapien semper risus, et porta erat mauris et dolor. Curabitur libero libero, molestie consequat adipiscing quis, faucibus in nunc. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. <span class="note">Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</span></p>]]>
+		-->
+
+</description>
+	</photo>
+	
+	<photo>
+		<filename>photos/Movies_etc/img934.png</filename>
+		<description><![CDATA[<span class="title">FX: Accident</span>
+		
+		<!--
+<p align="justify">Vivamus laoreet pharetra eros. In quam nibh, placerat ac, porta ac, molestie non, purus. Curabitur sem ante, condimentum non, cursus quis, eleifend non, libero. Nunc a nulla. Suspendisse vitae orci a ligula egestas bibendum. Vestibulum ultrices. Pellentesque tempus sapien nec sem commodo ullamcorper. Aenean neque. Cras feugiat. In ut ante.</p>
+<p align="justify"><a href="http://www.hikitraki.gr">Maecenas nisl ante</a>, mollis et, tincidunt vitae, feugiat sit amet, mi. Vestibulum urna. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. Cras ac odio ac mi imperdiet sollicitudin. In hac habitasse platea dictumst. Curabitur euismod scelerisque lacus.</p>
+<p align="justify">Cras pretium sem sed odio. Vestibulum nisl mauris, malesuada nec, dictum in, molestie in, pede. Phasellus tempus, justo et laoreet varius, odio mi ultrices libero, nec faucibus dui felis eu dui. Cras ac odio ac mi imperdiet sollicitudin.</p>]]></description>		
+	</photo>	
+	
+</photos>
