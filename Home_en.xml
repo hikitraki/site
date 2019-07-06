@@ -89,5 +89,13 @@
 		-->
 		</description>
 	</photo>
-	
+<photo>
+		<filename>photos/Home/cats00.jpg</filename>
+		<description><![CDATA[<span class="title">Andrew Lloyd Webber's Cats</span>
+		
+		<!--
+<p align="justify">- Lorem ipsum.</p>]]>
+		-->
+		</description>
+</photo>	
 </photos>
