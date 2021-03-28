@@ -1,0 +1,77 @@
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif; background-color:#000000;}
+.myslides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.slidestable {width:940px}
+.myslides .slidestable td {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  /* position: absolute; */
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+
+/* alkis extra css */
+.pages {font-family:Georgia; font-size:20px; font-weight:500; font-style:italic; width:800px; margin:0 auto; text-align:center}
+.pages .links span {margin:0px 20px 0px 20px}
+.pages a:link {text-decoration: none; color: #ee0000;}
+.pages a:visited {text-decoration: none; color: #ee0000;}
+.pages a:hover {text-decoration: none; color: #ee0000; }
+.pages a:active {text-decoration: none; color: #ee0000;}
+.pages .present {color: #ffffff;}
+
+.myslides img {height:450px; text-align:center;}
+
+.topcorner {position:absolute;top:0; right:0; margin: 20px}
+
+.filler {margin-top:100px}
