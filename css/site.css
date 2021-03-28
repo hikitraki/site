@@ -22,6 +22,19 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
+/* Caption text */
+.about {width:940px}
+.about .slidestable td {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  /* position: absolute; */
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+
 /* The dots/bullets/indicators */
 .dot {
   height: 15px;
@@ -75,3 +88,15 @@ img {vertical-align: middle;}
 .topcorner {position:absolute;top:0; right:0; margin: 20px}
 
 .filler {margin-top:100px}
+
+.about {margin-top:50px }
+
+.about .abouttitle{font-weight:bold; text-align:left}
+.about .aboutsubtitle{margin-top:20px; text-align:left}
+.about .abouttext{margin-top:20px; text-align:left}
+
+.about .aboutcontact {margin-top:20px; text-align:left}
+
+.about .aboutcontact .pre {}
+.about .aboutcontact .post {color:#ee0000; font-style:italic}
+
