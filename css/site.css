@@ -76,7 +76,7 @@ img {vertical-align: middle;}
 
 /* alkis extra css */
 .pages {font-family:Georgia; font-size:20px; font-weight:500; font-style:italic; width:800px; margin:0 auto; text-align:center}
-.pages .links span {margin:0px 20px 0px 20px}
+.pages .links span {margin:0px 10px 0px 10px}
 .pages a:link {text-decoration: none; color: #ee0000;}
 .pages a:visited {text-decoration: none; color: #ee0000;}
 .pages a:hover {text-decoration: none; color: #ee0000; }
